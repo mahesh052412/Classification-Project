@@ -26,4 +26,9 @@ The proposed classification algorithms to use are:
 - Python 3.x
 - Jupyter Notebook
 
-### Necessary Python libraries: pandas, numpy, scikit-learn, matplotlib, seaborn
+### Necessary Python libraries: 
+- pandas
+- numpy 
+- scikit-learn 
+- matplotlib 
+- seaborn
